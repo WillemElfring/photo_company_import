@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "photo_company_import", "photo_company_import\", "{5620BAF4-AB24-47D6-9B3C-F3A088E083E6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58912"
+		Debug.AspNetCompiler.PhysicalPath = "photo_company_import\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58912\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58912"
+		Release.AspNetCompiler.PhysicalPath = "photo_company_import\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58912\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58912"
+		SlnRelativePath = "photo_company_import\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5620BAF4-AB24-47D6-9B3C-F3A088E083E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5620BAF4-AB24-47D6-9B3C-F3A088E083E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E228DFAF-AC9C-4731-9537-286E259F2CD3}
+	EndGlobalSection
+EndGlobal
